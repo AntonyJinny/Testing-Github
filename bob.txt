@@ -1,7 +1,14 @@
-git config --global user.email "gamer2007jin@gmail.com"
-git config -- global user.name "AntonyJinny"
+1. git config --global user.email "EMAIL"
 
-git status 
-git add FILENAME
+2. git config -- global user.name "USERNAME"
 
-git commit -m "MESSAGE"
+3. git status 
+
+4. git add FILENAME
+
+5. git commit -m "MESSAGE"
+
+6. git push origin master or main
+
+pee pee 
+poo poo

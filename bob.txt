@@ -1,0 +1,7 @@
+git config --global user.email "gamer2007jin@gmail.com"
+git config -- global user.name "AntonyJinny"
+
+git status 
+git add FILENAME
+
+git commit -m "MESSAGE"
